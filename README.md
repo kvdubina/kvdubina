@@ -44,14 +44,12 @@
 
 ---
 
-## 📈 Статистика GitHub
+## 📈 Активность на GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvdubina&show_icons=true&theme=dark&locale=ru&hide_border=true&bg_color=121212&title_color=ffffff&text_color=a0a0a0&icon_color=61dafb" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvdubina&layout=compact&theme=dark&locale=ru&hide_border=true&bg_color=121212&title_color=ffffff&text_color=a0a0a0" alt="Top Languages" />
-</p>
+[![Таблица активности на GitHub](https://ghchart.rshah.org/kvdubina)](https://github.com/kvdubina)
 
 ---
+
 
 ## 💬 Связаться со мной
 
