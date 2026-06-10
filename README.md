@@ -44,12 +44,6 @@
 
 ---
 
-## 📈 Активность на GitHub
-
-[![Таблица активности на GitHub](https://ghchart.rshah.org/kvdubina)](https://github.com/kvdubina)
-
----
-
 
 ## 💬 Связаться со мной
 
